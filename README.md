@@ -53,6 +53,14 @@ probar la herramienta sin necesitar logs reales.
 - `reporte_alertas.json` — todas las alertas + datos de geolocalización, en formato estructurado
 - `mapa_alertas.html` — mapa interactivo con las IPs sospechosas ubicadas geográficamente (rojo = país inesperado, naranja = país esperado pero con actividad sospechosa)
 
+## Ejemplo de salida
+
+![Mapa de IPs sospechosas geolocalizadas](docs/screenshot_mapa.png)
+
+*Mapa generado automáticamente a partir de los logs de muestra: las IPs marcadas
+en rojo corresponden a países fuera de la lista de "esperados" (configurable con
+`--paises-esperados`), las naranjas son actividad sospechosa desde un país esperado.*
+
 ## Diseño técnico
 
 El proyecto está separado en módulos para mantener responsabilidades
