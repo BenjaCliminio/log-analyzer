@@ -1,0 +1,12 @@
+Aug  5 07:58:12 server sshd[1001]: Accepted password for benja from 190.191.5.20 port 51000 ssh2
+Aug  5 09:14:03 server sshd[1002]: Accepted password for benja from 190.191.5.20 port 51101 ssh2
+Aug  5 14:22:10 server sshd[1010]: Failed password for invalid user admin from 45.155.205.14 port 40001 ssh2
+Aug  5 14:22:12 server sshd[1011]: Failed password for invalid user root from 45.155.205.14 port 40002 ssh2
+Aug  5 14:22:14 server sshd[1012]: Failed password for invalid user test from 45.155.205.14 port 40003 ssh2
+Aug  5 14:22:16 server sshd[1013]: Failed password for invalid user oracle from 45.155.205.14 port 40004 ssh2
+Aug  5 14:22:18 server sshd[1014]: Failed password for invalid user postgres from 45.155.205.14 port 40005 ssh2
+Aug  5 14:22:20 server sshd[1015]: Failed password for invalid user ubuntu from 45.155.205.14 port 40006 ssh2
+Aug  5 16:40:55 server sshd[1020]: Accepted password for benja from 190.191.5.20 port 51302 ssh2
+Aug  6 02:47:31 server sshd[1030]: Accepted password for root from 103.45.19.201 port 33221 ssh2
+Aug  6 09:05:00 server sshd[1040]: Accepted password for benja from 190.191.5.20 port 51500 ssh2
+ 
